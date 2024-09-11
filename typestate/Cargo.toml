@@ -1,0 +1,10 @@
+[package]
+name = "typestate"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[[bin]]
+name = "typestate"
+path = "src/main.rs"
